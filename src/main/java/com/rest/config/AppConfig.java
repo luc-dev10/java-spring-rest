@@ -1,4 +1,4 @@
-package main.rest.config;
+package com.rest.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
